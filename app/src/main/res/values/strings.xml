@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VNGDemo</string>
+    <string name="des_textbox">文本框</string>
+    <string name="des_background">背景</string>
+</resources>
